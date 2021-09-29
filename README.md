@@ -1,5 +1,7 @@
 # Python Bootcamp
-Udemy Course on Python by Pierian Data
+Udemy Course on Python by Pierian Data.
+
+This course included 155 lectures over 22 hours of videos.
 
 
 Covers a wide range of topics for python including the following:
